@@ -1,0 +1,32 @@
+.sport_video{
+    height: 400px;
+    width: 100% !important;
+    overflow: hidden;
+}
+
+.sport_video_bottom{
+    height: 110px;
+    background-color: #272727;
+    width :100%
+}
+.avatar_sport{
+    height: 78px !important;
+    width: 78px !important;
+    margin-left: 30px;
+    position: relative;
+}
+.sport_video_bottom h6{
+    margin-left: -70px !important;
+    float: left;
+    color: rgb(170, 170, 170) !important;
+}
+.sport_video_bottom button{
+    color: black;
+    border-radius: 17px !important;
+    font-weight: 600
+}
+.bg_video_border{
+    background-color: rgb(70, 70, 70);
+    height: 5px;
+    width: 100%;
+}

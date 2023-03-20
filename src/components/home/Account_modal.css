@@ -1,0 +1,47 @@
+.modalWrapper{
+    background-color: rgb(37, 37, 37);
+    height: 400px;
+    width: 300px;
+    position: absolute;
+    z-index: 444;
+    margin-top: 45px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.modalWrapper button{
+    background-color: transparent !important;
+    border: none !important;
+}
+.email{
+    margin-top: -7px;
+    color: rgb(180, 180, 180) !important;
+}
+.manage{
+    margin-left: 60px !important;
+    margin-top: -15px;
+    font-size: 14px;
+}
+.modal_items{
+    height: 50px;
+    align-items: center;
+}
+.modal_items:hover{
+    background-color: rgb(109, 109, 109);
+}
+.modalWrapper_videocall{
+    background-color: rgb(37, 37, 37);
+    height: 130px ;
+    width: 200px;
+    position: absolute;
+    z-index: 444;
+    margin-top: 45px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.modalWrapper_videocall button{
+    background-color: transparent !important;
+    border: none !important;
+    float: right;
+    margin-right: 5px;
+    color: white;
+}

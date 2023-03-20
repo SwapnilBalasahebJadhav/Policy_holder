@@ -1,0 +1,12 @@
+.recomendedvideo{
+    /* height: 100%; */
+    box-sizing: border-box;
+    position: sticky;
+    display: flex;
+    margin-left: 220px;
+}
+@media(max-width:767px){
+    .recomendedvideo{
+        margin-left: -1px !important;
+    }   
+}   

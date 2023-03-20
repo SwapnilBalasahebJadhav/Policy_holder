@@ -1,0 +1,29 @@
+.videocard{
+   height: 150px !important;
+   border-radius: 10px;
+}
+.videocard_body{
+    border-radius: 10px !important;
+    background-color: transparent;
+}
+.vid_title{
+    font-size: 15px !important;
+}
+.vid_channel{
+    color: rgb(167, 167, 167);
+    font-size: 13px;
+    margin-top: -10px !important;
+}
+.vid_views{
+    color: rgb(165, 164, 164);
+    font-size: 13px;
+    margin-top: -18px !important;
+}
+.vid_date{
+    color: rgb(165, 164, 164);
+    font-size: 13px;
+    margin-top: -18px !important;
+}
+.card_area{
+    background-color: transparent ;
+}

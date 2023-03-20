@@ -1,0 +1,19 @@
+.trending_logo{
+    height: 80px !important;
+    width: 80px !important;
+}
+.trending_ul{
+    color: rgb(161, 161, 161);
+}
+.trending_ul li{
+    font-size: 17px;
+    font-weight: 500;
+    padding: 0;
+
+}
+.trending_first_li{
+    border-bottom: 3px solid white;
+}
+.trending_hr{
+    margin-top: -15px;
+}

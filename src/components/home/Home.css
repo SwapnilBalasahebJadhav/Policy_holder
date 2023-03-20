@@ -1,0 +1,45 @@
+ul{
+    list-style-type: none ;
+    display: inline;
+}
+
+hr{
+    background-color: rgb(80, 80, 80) !important;
+    width: 100% !important;  
+}
+.Sidenav{
+    position: fixed !important;
+    margin-top: -70px;
+    z-index: 200;
+    overflow: hidden !important;
+    
+    height: 605px !important;
+}
+.Sidenav:hover{
+    overflow-y: scroll !important;
+}
+
+.Sidenav p{
+    color: rgb(136, 135, 135);
+    font-size: 13px;
+}
+.sidemenu_link{
+    color: white !important;
+    text-decoration: none !important;
+    margin-top: 10px !important;
+    font-size: 14px !important;
+    /* padding: 15px 20px !important; */
+    cursor: pointer !important;
+    border-radius: 10px;
+}
+.subscription_avatar{
+    height: 25px !important;
+    width: 25px !important;
+}
+.subscription_icon{
+    font-size: 15px !important;
+    color: red !important;
+}
+/* .sidemenu_link:hover {
+    background-color: rgb(90, 90, 90);
+} */

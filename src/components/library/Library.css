@@ -1,0 +1,32 @@
+ul{
+    list-style-type: none ;
+    display: inline;
+}
+li{
+    margin-top: 10px;
+    font-size: 14px;
+    padding: 5px;
+    cursor: pointer;
+}
+hr{
+    background-color: rgb(80, 80, 80) !important;
+    width: 100% !important;
+    
+}
+/* li:hover{
+    background-color: rgb(104, 104, 104) !important;
+    border-radius: 10px;
+} */
+.Sidenav{
+    position: fixed !important;
+    margin-top: -70px;
+    z-index: 200;
+    overflow: hidden;
+}
+/* .Sidenav:hover{
+    overflow-y: scroll !important;
+} */
+.Sidenav p{
+    color: rgb(136, 135, 135);
+    font-size: 13px;
+}
